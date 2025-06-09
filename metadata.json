@@ -1,0 +1,8 @@
+{
+  "name": "Life Architect",
+  "description": "A comprehensive personal management application to help users architect and achieve their life goals across various domains like study, fitness, and well-being, featuring AI coaching and progress tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
